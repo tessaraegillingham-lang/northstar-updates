@@ -1,0 +1,8 @@
+{
+  "app": "northstar",
+  "schema": 1,
+  "version": "1.8.0",
+  "package_url": "https://github.com/tessaraegillingham-lang/northstar-updates/releases/download/v1.8.0/northstar_auto_updates_v18.zip",
+  "sha256": "9db342ae25172c8da0d8685b5c743bad1b6f2c27f80fbb4194640052f3b8cdb6",
+  "notes": "Initial Northstar automatic update release"
+}
